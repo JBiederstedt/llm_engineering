@@ -10,42 +10,42 @@ The course spans eight weeks, each focused on a different aspect of LLM developm
 
 Each folder corresponds to a weekly module and contains the associated project files, code notebooks, and supporting documentation.
 
-- **week1/**: _Getting Started & Local LLM Setup_
+- **week1**: _Getting Started & Local LLM Setup_
 
   - Install and configure Ollama for local LLM experimentation (Llama 3.2).
   - Run basic chat completions and explore prompt variations.
 
-- **week2/**: _Prompt Engineering & Chain of Thought_
+- **week2**: _Prompt Engineering & Chain of Thought_
 
   - Techniques for crafting effective prompts.
   - Implement chain-of-thought prompting to improve reasoning in LLM outputs.
 
-- **week3/**: _Embeddings & Semantic Search_
+- **week3**: _Embeddings & Semantic Search_
 
   - Generate text embeddings with Hugging Face.
   - Build a vector database for semantic document retrieval.
 
-- **week4/**: _Fine-Tuning & Custom Models_
+- **week4**: _Fine-Tuning & Custom Models_
 
   - Fine-tune open-source LLMs on domain-specific data.
   - Evaluate and compare model variants.
 
-- **week5/**: _Evaluation & Benchmarking_
+- **week5**: _Evaluation & Benchmarking_
 
   - Define evaluation metrics for LLM performance.
   - Automate benchmark tests across multiple models and datasets.
 
-- **week6/**: _Agent Design & Tooling_
+- **week6**: _Agent Design & Tooling_
 
   - Architect multi-step agent workflows.
   - Integrate external tools and APIs (e.g., search, databases).
 
-- **week7/**: _Multi-Turn Dialogue & Retrieval_
+- **week7**: _Multi-Turn Dialogue & Retrieval_
 
   - Maintain conversational context across turns.
   - Combine retrieval-augmented generation for knowledge-driven agents.
 
-- **week8/**: _Autonomous Agentic AI_
+- **week8**: _Autonomous Agentic AI_
 
   - Build an end-to-end autonomous agent that plans, acts, and evaluates its own tasks.
   - Deploy the agent in a production-like environment.
